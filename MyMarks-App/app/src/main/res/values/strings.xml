@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyMarks</string>
+    <string name="action_settings">Settings</string>
+    <string name="entry_title">Hello! Here you can add websites that you are interested and never forget to visit them!</string>
+    <string name="category_title1">You have no websites in this category!</string>
+    <string name="category_title2">Create them clicking in the button bellow.</string>
+    <string name="title_activity_add_category">Add a category</string>
+    <string name="title_activity_see_categories">Your categories</string>
+    <string name="title_activity_category">Your websites in this category</string>
+    <string name="title_activity_add_website">Create a website</string>
+</resources>
